@@ -2,4 +2,4 @@
 
 ## Contacts
 - [email] 0uazgg4fq@mozmail.com
-- [discord] 4e890db26e6b836ea6d946d923ed9cfd#1062
+- [discord] 496ae34c255181d11e286f7d73ae7c4b#1062
